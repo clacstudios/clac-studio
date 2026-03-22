@@ -1,6 +1,6 @@
 # 🎵 CLAC Studio
 
-**Custom Lossless Audio Codec** - A complete audio compression ecosystem built from scratch
+**Cole's Lossless Audio Codec** - A complete audio compression ecosystem built from scratch
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -28,7 +28,7 @@
 
 **CLAC Studio** is a complete lossless audio compression solution featuring:
 
-- **Custom Codec**: Pure Python implementation of a lossless audio codec
+- **Custom Codec**: Pure Python implementation of Cole's Lossless Audio Codec
 - **Desktop App**: GUI application for encoding, decoding, and playback
 - **Streaming Playback**: Real-time decoding with PyAudio
 - **Cross-Platform**: Works on Windows, macOS, and Linux
