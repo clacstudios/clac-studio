@@ -18,7 +18,6 @@
 - [How It Works](#how-it-works)
 - [File Format](#file-format-specification)
 - [Performance](#performance)
-- [Android Support](#android-support)
 - [Development](#development)
 - [License](#license)
 
