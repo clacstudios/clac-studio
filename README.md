@@ -1,5 +1,8 @@
 # 🎵 CLAC Studio
 
+<img width="512" height="512" alt="17742055772" src="https://github.com/user-attachments/assets/70d3a3be-26ce-4377-804d-cadbf7e086af" />
+
+
 **Cole's Lossless Audio Codec** - A complete audio compression ecosystem built from scratch
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
