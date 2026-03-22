@@ -8,21 +8,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [File Format](#file-format-specification)
-- [Performance](#performance)
-- [Development](#development)
-- [License](#license)
-
----
-
 ## 🌟 Overview
 
 **CLAC Studio** is a complete lossless audio compression solution featuring:
