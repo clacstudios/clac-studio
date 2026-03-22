@@ -38,10 +38,6 @@ Unlike using existing formats like FLAC, CLAC is built from the ground up as an 
 - 🎚️ **Volume Control** - Built-in audio controls
 - ⏸️ **Pause/Resume** - Instant playback control
 
-### 📱 Mobile Support
-- 🤖 **Android Compatible** - Package with Kivy/Buildozer
-- 📦 **Standalone APK** - No root required
-
 ---
 
 ## 📥 Installation
