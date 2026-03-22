@@ -51,11 +51,11 @@ Unlike using existing formats like FLAC, CLAC is built from the ground up as an 
 
 ```bash
 # Clone or download the repository
-git clone https://github.com/yourusername/clac-studio.git
+git clone https://github.com/clacstudios/clac-studio.git
 cd clac-studio
 
 # Install dependencies
 pip install pyaudio
 
 # Run the application
-python clac_studio.py
+python clac-studio.py
