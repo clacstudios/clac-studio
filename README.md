@@ -19,7 +19,6 @@
 - **Desktop App**: GUI application for encoding, decoding, and playback
 - **Streaming Playback**: Real-time decoding with PyAudio
 - **Cross-Platform**: Works on Windows, macOS, and Linux
-- **Android Ready**: Can be packaged for mobile devices
 
 Unlike using existing formats like FLAC, CLAC is built from the ground up as an educational project demonstrating audio compression principles.
 
