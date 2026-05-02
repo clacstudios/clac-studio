@@ -2,38 +2,8 @@
 
 <img width="512" height="512" alt="17742055772" src="https://github.com/user-attachments/assets/70d3a3be-26ce-4377-804d-cadbf7e086af" />
 
-
-**Cole's Lossless Audio Codec** - A complete audio compression ecosystem built from scratch
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Alpha-orange.svg)
-
 ---
 
-## 🌟 Overview
-
-**CLAC Studio** is a complete lossless audio compression solution featuring:
-
-- **Custom Codec**: Pure Python implementation of Cole's Lossless Audio Codec
-- **Desktop App**: GUI application for encoding, decoding, and playback
-- **Streaming Playback**: Real-time decoding with PyAudio
-- **Cross-Platform**: Works on Windows, macOS, and Linux
-
-Unlike using existing formats like FLAC, CLAC is built from the ground up as an educational project demonstrating audio compression principles.
-
----
-
-## ✨ Features
-
-### 🎧 Audio Codec
-- ✅ **Lossless Compression** - Bit-perfect audio reconstruction
-- 🔄 **Streaming Support** - Decode while playing (no full decompression needed)
-- 📊 **Compression Ratio** - Typically 30-60% size reduction
-- 🔍 **Verification** - Built-in file integrity checking
-- 🚀 **Fast Encoding/Decoding** - Optimized Rice coding + linear prediction
-
-### 💻 Desktop Application
 - 🖼️ **Modern GUI** - Clean, intuitive interface
 - ▶️ **Integrated Player** - Play CLAC files directly
 - 📈 **Progress Tracking** - Real-time encoding/decoding progress
